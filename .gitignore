@@ -17,3 +17,9 @@ venv/
 
 db.sqlite3
 .idea
+
+.DS_Store
+celerybeat-schedule
+
+**/migrations/*
+!**/migrations/__init__.py
